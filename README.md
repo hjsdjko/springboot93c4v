@@ -26,4 +26,4 @@ http://localhost:8080/springbootxs5o6/admin/dist/index.html
 ![输入图片说明](3283fc24d9e197faa9419dfb58d6a8b.png)
 ![输入图片说明](879efa1df2f6e2f8ac5c0ca0840f71e.png)
 ![输入图片说明](6941dc57bd4738e006189eb8e1f9ef9.png)
-![输入图片说明](034386aca1f55bb9dc019f386167d53.png)
+![输入图片说明](6924a54e8e0a8547717320d0645a6c8.png)
