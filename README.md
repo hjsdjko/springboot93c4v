@@ -2,27 +2,39 @@
 
 [索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
-【需要源码和论文：QQ联系 979748385 QQ群 601569450】
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-推荐使用：谷歌浏览器 
+***************************************************************
 
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
+系统架构
 
-管理员  abo 密码 abo
+前端：html | js | css | jquery | vue
 
+后端：springboot | mybatis
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+环境：jdk1.8+ | mysql | maven
 
+使用说明
 
+1、下载源码，导入IDEA
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+2、创建数据库，执行数据库脚本
 
-![输入图片说明](bb2ae4f3b62190becd45443e1a9bc9a.png)
-![输入图片说明](3283fc24d9e197faa9419dfb58d6a8b.png)
-![输入图片说明](879efa1df2f6e2f8ac5c0ca0840f71e.png)
-![输入图片说明](6941dc57bd4738e006189eb8e1f9ef9.png)
+3、修改数据库JDBC连接参数
+
+4、在IDEA中运行
+
+5、打开浏览器，参考<说明文档.txt>中的地址
+
+***************************************************************
+
+![a8347f26682eff36fa72f065bf9dedf](https://github.com/hjsdjko/springboot93c4v/assets/120558513/b050c932-b953-4a1e-9f7a-2d456d01aece)
+
+![f73ce52600d30f98114aee9b66c24e0](https://github.com/hjsdjko/springboot93c4v/assets/120558513/b39447f7-f162-40fa-9f00-62f11d72c335)
+
+![81eab2d353d916a9182648049237e68](https://github.com/hjsdjko/springboot93c4v/assets/120558513/7b7420a1-58aa-41d5-9c8d-0b69eca4daf7)
+
+![b64d1b88772958c303358a2ce7bb690](https://github.com/hjsdjko/springboot93c4v/assets/120558513/5e0dd39a-da7e-428e-94dd-9218485b8d71)
+
+![24a970ef0fc6a1da55e36eb3fae5ce0](https://github.com/hjsdjko/springboot93c4v/assets/120558513/dc1c001c-69ae-4700-9f38-3c06b8d9ce2a)
+
